@@ -11,4 +11,4 @@
 
 ## 깃 허브 살펴보기 
 
-![mac image](./image/스크린샷 2020-12-18 오후 10.42.52.png)
+![mac image](./image/image.png)
