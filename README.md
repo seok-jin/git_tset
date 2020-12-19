@@ -13,4 +13,6 @@
 
 ### 깃 허브에 글을 작성해봅니다. 2020 12월 19일 
 
+# git tset string 
+
 ![mac image](./image/image.png)
